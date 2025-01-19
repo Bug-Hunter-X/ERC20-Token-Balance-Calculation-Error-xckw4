@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common bug in ERC20 token contracts: an incorrect balance calculation. The bug is present in `bug.sol` and a corrected version is provided in `bugSolution.sol`.  The bug results in inaccurate token balances being reported. The solution demonstrates a correct implementation, ensuring accurate balance tracking.
